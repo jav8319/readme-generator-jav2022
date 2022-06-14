@@ -62,9 +62,9 @@ inquirer
 
       const content= 
 `
-## ${data.project}  
+# ${data.project}  
       
-Table of content  
+## Table of content  
 
 1.[Description](#description)
 2.[Installation](#installation)
@@ -74,31 +74,31 @@ Table of content
 6.[License](#license)  
 7.[Questions](#questions)  
 
-# Description  
+## Description  
 
 ${data.description}  
 
-# Installation  
+## Installation  
 
 ${data.installation}  
 
-# Usage  
+## Usage  
 
 ${data.usage}  
 
-# Contributions Guide Lines 
+## Contributions Guide Lines 
 
 ${data.contributions}  
 
-# Test Instructions  
+## Test Instructions  
 
 ${data.test}  
 
-# Questions  
+## Questions  
 
 I can be reached at <${data.contact}> or  [github]https://github.com/${data.Github}>
 
-# License  
+## License  
 
 ${data.license}
 `;
