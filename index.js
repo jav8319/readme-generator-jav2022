@@ -69,7 +69,7 @@ Table of content
 1.[Description](#description)
 2.[Installation](#installation)
 3.[Usage](#usage)  
-4.[Contributions](#contributions) 
+4.[Contributions Guide Lines](#contributions-guide-lines) 
 5.[Test Instructions](#test-instructions)
 6.[License](#license)  
 7.[Questions](#questions)  
@@ -86,7 +86,7 @@ ${data.installation}
 
 ${data.usage}  
 
-# Contributions  
+# Contributions Guide Lines 
 
 ${data.contributions}  
 
