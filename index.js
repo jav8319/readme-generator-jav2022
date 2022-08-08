@@ -96,7 +96,7 @@ ${data.test}
 
 ## Questions  
 
-I can be reached at <${data.contact}> or  [github]https://github.com/${data.Github}>
+I can be reached at <${data.contact}> or  [github]https://github.com/${data.Github}
 
 ## License  
 
