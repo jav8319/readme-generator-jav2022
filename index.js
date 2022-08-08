@@ -108,4 +108,3 @@ ${data.license}
       err ? console.log(err) : console.log('Success!')
       );
     });
-
