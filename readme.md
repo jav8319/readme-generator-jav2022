@@ -20,10 +20,6 @@ Make sure node.js is available in the local computer(https://nodejs.org/en/downl
 
 https://drive.google.com/file/d/1NYKMPi3g4GzX0DZWi9zEFilQLY9bQ340/view?usp=sharing follow link to see demo  
 
-## Usage  
-
-https://drive.google.com/file/d/1NYKMPi3g4GzX0DZWi9zEFilQLY9bQ340/view?usp=sharing follow link to see demo 
-
 ## Questions  
 
 I can be reached at <-->[github]https://github.com/jav8319
